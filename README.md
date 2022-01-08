@@ -1,3 +1,3 @@
 #test
 
-this is a Moodle test plugin.
+This is a Moodle test plugin.
